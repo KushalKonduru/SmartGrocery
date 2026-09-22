@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "strict": true,
+    "noImplicitAny": true
+  },
+  "imports": {
+    "http/": "https://deno.land/std@0.168.0/http/"
+  }
+}

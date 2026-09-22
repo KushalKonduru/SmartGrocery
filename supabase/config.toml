@@ -1,0 +1,7 @@
+project_id = "fylsaezgqfjkdyikhiqj"
+
+[functions.iron-chef-chat]
+verify_jwt = true
+
+[functions.create-order]
+verify_jwt = true
